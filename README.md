@@ -10,4 +10,6 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 - :desktop_computer: Currently I’m looking for Full time Data Science Opportunities
 - 🥊 During free-time I Read Books , Click Potrait Pictures and  also a bit of VedioGraphy 
 - <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=20 width=30>Connect over on LinkedIn: https://www.linkedin.com/in/sharanbasav/
+- 📧▶️Email: sharanbasav.sumbad@gmail.com
+- 🗯 Website: https://sharansumbad.github.io/
 
