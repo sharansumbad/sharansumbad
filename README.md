@@ -26,7 +26,7 @@
 
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" height=20 width=30> I’m currently pursuing a Master's in Data Science degree at Indiana University, Bloomington 
-- 💥 I’m currently learning Concepts of Data Science , Machine Learning , Exploratory Data Analysis, Data Engineering , and DevOps.
+- 💥 I’m currently learning Concepts of Data Science, Machine Learning, Deep Learning, Data Engineering and DevOps.
 - 👷‍♂️ I’m looking to collaborate on any development projects and open-source projects
 - :desktop_computer: Currently I’m looking for Full time Data Science Opportunities
 - 🥊 During free-time I love to read Books , click Scenic Pictures and Edit Vedios
@@ -119,13 +119,10 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sharansumbad&repo=Phishing_Email_Classification&theme=dark" />
 </a>  
 
-<a href="https://github.com/sharansumbad/EDA-Freddie-Mac">
+<a href="https://github.com/sharansumbad/Chicago_Crime_EDA-R-progamming">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sharansumbad&repo=EDA-Freddie-Mac&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sharansumbad&repo=Chicago_Crime_EDA-R-progamming&theme=dark" />
 </a>  
-
-
-
 
 
 ----------------------------------------------------------------------
