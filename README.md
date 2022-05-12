@@ -13,9 +13,6 @@
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)">
   </a> 
   <a href="https://sharansumbad.github.io/" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a> 
-  <a href="https://sharansumbad.github.io/" target="_blank">
     <img alt="GitHubIO" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a> 
   <a href="sumbad.sharanbasav@gmail.com" target="_blank">
