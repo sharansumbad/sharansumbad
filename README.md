@@ -120,11 +120,6 @@
 </a>  
 
 
-<a href="https://github.com/sharansumbad/Ethereum-Price-prediction-SentimentAnalyis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sharansumbad&repo=Ethereum-Price-prediction-SentimentAnalyis&theme=dark" />
-</a> 
-
 <a href="https://github.com/sharansumbad/EDA-Freddie-Mac">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sharansumbad&repo=EDA-Freddie-Mac&theme=dark" />
