@@ -6,18 +6,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+love+reading+books" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
+   <a href="https://www.linkedin.com/in/sharanbasav/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-   <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>  
-  <a href="https://www.kaggle.com/aastha124" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-  </a>  
- <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
+   <a href="https://medium.com/@sumbadsharan" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)">
+  </a> 
+  <a href="https://sharansumbad.github.io/" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a> 
+  <a href="https://sharansumbad.github.io/" target="_blank">
+    <img alt="GitHubIO" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a> 
+  <a href="sumbad.sharanbasav@gmail.com" target="_blank">
+    <img alt="GitHubIO" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+
+ 
 
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" height=20 width=30> I’m currently pursuing a Master's in Data Science degree at Indiana University, Bloomington 
@@ -25,21 +30,24 @@
 - 👷‍♂️ I’m looking to collaborate on any development projects and open-source projects
 - :desktop_computer: Currently I’m looking for Full time Data Science Opportunities
 - 🥊 During free-time I love to read Books , click Scenic Pictures and Edit Vedios
-- <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=20 width=30>Connect over on LinkedIn: https://www.linkedin.com/in/sharanbasav/
 - 💬 Talk to me about freelancing opportunities in data science and software engineering
 - 📧 Email: sharanbasav.sumbad@gmail.com
-- 🗯 Website: https://sharansumbad.github.io/
-
 
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://www.python.org" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
+
+
+   <a href="https://www.r-project.org/" target="_blank">
+    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
   </a>
 
-   <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+
+  <a href="https://julialang.org/" target="_blank">
+    <img alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)">
   </a>
 
    <a href="https://scikit-learn.org/" target="_blank">
@@ -124,3 +132,4 @@
 
 
 ----------------------------------------------------------------------
+
