@@ -22,7 +22,7 @@
  
 
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" height=20 width=30> I’m currently pursuing a Master's in Data Science degree at Indiana University, Bloomington 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" height=20 width=30> I’m currently pursuing my Masters degree in Data Science  at Indiana University, Bloomington 
 - 💥 I’m currently learning Concepts of Data Science, Machine Learning, Deep Learning, Data Engineering and DevOps.
 - 👷‍♂️ I’m looking to collaborate on any development projects and open-source projects
 - :desktop_computer: Currently I’m looking for Full time Data Science Opportunities
