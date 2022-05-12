@@ -8,7 +8,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 - 💥 I’m currently learning Concepts of Data Science , Machine Learning , Exploratory Data Analysis, Data Engineering , and DevOps.
 - 👷‍♂️ I’m looking to collaborate on any development projects and open-source projects
 - :desktop_computer: Currently I’m looking for Full time Data Science Opportunities
-- 🥊 During free-time I Read Books , Click Potrait Pictures and  also a bit of VedioGraphy 
+- 🥊 During free-time I love to read Books , click Scenic Pictures and  also vedio Editing
 - <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=20 width=30>Connect over on LinkedIn: https://www.linkedin.com/in/sharanbasav/
 - 📧 Email: sharanbasav.sumbad@gmail.com
 - 🗯 Website: https://sharansumbad.github.io/
