@@ -26,7 +26,7 @@
 - 💥 I’m currently learning Concepts of Data Science, Machine Learning, Deep Learning, Data Engineering and DevOps.
 - 👷‍♂️ I’m looking to collaborate on any development projects and open-source projects
 - :desktop_computer: Currently I’m looking for Full time Data Science Opportunities
-- 🥊 During free-time I love to read Books , click Scenic Pictures and Edit Videos
+- 🥊 During free-time I love to read Books , click pictures and vedio editting
 - 💬 Talk to me about freelancing opportunities in data science and software engineering
 - 📧 Email: sharanbasav.sumbad@gmail.com
 
